@@ -1,0 +1,20 @@
+{
+  "name": "easy-responsive-dimensions",
+  "version": "0.0.3",
+  "description": "easy responsive dimensions is a react native package that helps you to make responsive UI components and responsive font size whose it's size can be changed according to the size of the device screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "responsive",
+    "dimensions",
+    "size",
+    "easy"
+  ],
+  "author": "Hossam Abdel-Aziz <hossam.elgzeery@live.com>",
+  "license": "ISC"
+}
